@@ -1,4 +1,6 @@
 hello
 hot-fix
 
-master -----
+master ----
+hot-fix---
+
